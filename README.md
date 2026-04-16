@@ -54,7 +54,7 @@ Profesional del área tecnológica con enfoque en la docencia y la investigació
 *A continuación se presentan métricas dinámicas de contribución en GitHub.*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaaguirrer&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=gaaguirrer)](https://github.com/ryo-ma/github-profile-trophy)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaguirrer&layout=compact&langs_count=8&theme=graywhite&hide_border=true" />
 </div>
 
