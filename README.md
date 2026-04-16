@@ -52,7 +52,7 @@ Profesional del área tecnológica con enfoque en la docencia y la investigació
 ## Actividad en la Plataforma
 
 *A continuación se presentan métricas dinámicas de contribución en GitHub.*
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=github_dark)
+![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=github_dark)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaguirrer&layout=compact&langs_count=8&theme=graywhite&hide_border=true" />
 </div>
