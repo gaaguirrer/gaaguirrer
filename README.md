@@ -9,22 +9,16 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="48" align="center" valign="top">
-      📋
-    </td>
     <td>
-      <h2 align="left">Perfil Profesional</h2>
+      <h2>📋 Perfil Profesional</h2>
       Profesional del área tecnológica con enfoque en la docencia y la investigación aplicada.<br>
       Mi labor se centra en la construcción de conocimiento estructurado y el desarrollo de soluciones prácticas mediante software.<br>
       Interesado en la intersección entre la ciencia de datos, la automatización y la innovación en el sector agrícola.
     </td>
   </tr>
   <tr>
-    <td width="48" align="center" valign="top">
-      ⚙️
-    </td>
     <td>
-      <h2 align="left">Competencias Técnicas</h2>
+      <h2>⚙️ Competencias Técnicas</h2>
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td><strong>Dominio Principal</strong></td>
@@ -62,11 +56,8 @@
     </td>
   </tr>
   <tr>
-    <td width="48" align="center" valign="top">
-      💡
-    </td>
     <td>
-      <h2 align="left">Líneas de Interés y Aplicación</h2>
+      <h2>💡 Líneas de Interés y Aplicación</h2>
       <ul>
         <li><strong>Análisis estadístico y scripting:</strong> desarrollo de herramientas para procesamiento y visualización de datos.</li>
         <li><strong>Inteligencia artificial:</strong> implementación de modelos predictivos.</li>
@@ -76,11 +67,8 @@
     </td>
   </tr>
   <tr>
-    <td width="48" align="center" valign="top">
-      🎬
-    </td>
     <td>
-      <h2 align="left">Intereses Complementarios</h2>
+      <h2>🎬 Intereses Complementarios</h2>
       Cinéfilo. Interesado en el análisis narrativo y técnico del séptimo arte como contrapunto al pensamiento lógico estructurado.
     </td>
   </tr>
